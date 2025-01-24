@@ -21,7 +21,7 @@
     "react": "*",
     "react-native": "*",
     "react-native-vector-icons": ">= 2.1.0",
-    "react-native-video": "git+https://github.com/react-native-video/react-native-video#master"
+    "react-native-video": ">=5.2.1"
   },
   "devDependencies": {
     "eslint": "^3.4.0",
